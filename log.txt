@@ -1,0 +1,35 @@
+commit bc2e91e60ab25fde0af825691ead806e4b01d131
+Author: Raju Das <automationdevopsraju@outlook.com>
+Date:   Wed Sep 28 22:55:13 2022 +0530
+
+    .gitignore added after revert conflict
+
+commit 6a695f3cee1d08ef6d807af73e89345b5e1b7fcf
+Author: Raju Das <automationdevopsraju@outlook.com>
+Date:   Wed Sep 28 22:43:31 2022 +0530
+
+    made changes in READMe.md
+
+commit 9038a8531a89adf8eebeceb6019c2f7902f73216
+Author: Raju Das <automationdevopsraju@outlook.com>
+Date:   Wed Sep 28 22:27:07 2022 +0530
+
+    Add .gitignore file to ignore all files whose name begins “.”
+
+commit fabe41ddfde4767ae9a74921485c4ffa3882d50e
+Author: Raju Das <automationdevopsraju@outlook.com>
+Date:   Wed Sep 28 22:03:31 2022 +0530
+
+    test file for dev branch
+
+commit eb6c4f24c3e14c5c6914264b9869d0806f1b22c3
+Author: Raju Das <automationdevopsraju@outlook.com>
+Date:   Wed Sep 28 21:22:18 2022 +0530
+
+    Task1 Readme file added on Sep28 21:19
+
+commit ff55781520400b00359e1f3078c173b24a1479ce
+Author: automationdevopsraju <114600751+automationdevopsraju@users.noreply.github.com>
+Date:   Wed Sep 28 21:10:35 2022 +0530
+
+    Initial commit
