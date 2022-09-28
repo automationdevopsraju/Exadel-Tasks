@@ -31,7 +31,7 @@ git status
  git push origin dev
  git checkout -b automationdevopsraju-new_feature
  echo "readme for automationdevopsraju-new_feature" > README.md 
- ls -l
+ ls -ltra
  git status
  ls -la
  cat .gitignore 
